@@ -4,6 +4,8 @@ Please find your seat & start working on the notecard questions.
 
 Note:
 
+**Timing: Before bell**
+
 ---
 
 # First things
@@ -13,11 +15,16 @@ Note:
 
 Note:
 
+**Timing: 00:05**
+
 * We offer free phone storage
 * Phone policy:
   - Warning
   - 
   -
+* Check Area:
+  - Condition of monitor, keyboard, mouse, and camera
+  - Tidy
 ---
 
 # Introductions
@@ -83,6 +90,9 @@ Note:
 ---
 
 # Code.org Accounts
+
+studio.code.org
+GJHZSGu
 
 ---
 
