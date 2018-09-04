@@ -29,17 +29,19 @@ Note:
 ---
 
 ### CSP Is:
-* An introduction to the "big things" in computer science
+* An introduction to the "big ideas" in CS
   - The Internet - communicating information
-  - Digital Information - representing the world with 1s and 0s
+  - Digital Information - the world as 1s and 0s
   - Programming - "teaching" machines to do simple, and complicated, tasks
   - Big Data & Privacy - the implications of vast storage & fast machines
 * A college level class
-  - Potential to earn college credit
 * An exploratory Career & Technical Education class
-  - Learning about computer science
-  - Learning about the world of work & the skills employers value
 
+Note:
+* Potential for college credit.
+* CTE means:
+  - Learning about computer science **and**
+  - Learning about the world of work & the skills employers value
 ---
 
 ### The AP Exam
