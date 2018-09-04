@@ -89,14 +89,30 @@ Note:
 
 ---
 
-# Code.org Accounts
+# Tech Setup
 
 studio.code.org
 GJHZSGu
 
 ---
 
-# Survey
+# Pre-Course Survey
+
+---
+
+# Getting Started
+
+---
+
+# Activity
+
+Note:
+
+25 min
+
+---
+
+# Wrap-up
 
 ---
 
