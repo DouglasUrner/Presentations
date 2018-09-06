@@ -1,6 +1,6 @@
 # Welcome to AP Computer Science Principles
 
-Please find your seat & start working on the notecard questions.
+Please have a seat.
 
 Note:
 
@@ -9,9 +9,9 @@ Note:
 ---
 
 # First things
-* Seats are assigned
 * Phones silenced & away
-* Check area
+* No eating or drinking at the computers
+* Please check area - let me know if anything is amiss
 
 Note:
 
@@ -20,8 +20,9 @@ Note:
 * We offer free phone storage
 * Phone policy:
   - Warning
-  - 
-  -
+  - With me till end of class
+  - Dean till end of day
+  - Parent picks up
 * Check Area:
   - Condition of monitor, keyboard, mouse, and camera
   - Tidy
@@ -32,6 +33,19 @@ Note:
 ## Your Guides:
 * Doug Urner
 * Dan Radion
+
+Note:
+
+---
+
+### Let's Get Started
+
+1. Please log in
+1. In Chrome navigate to https://studio.code.org/users/sign_up
+1. On the right click on "Sign in with Google Account"
+1. Then navigate to https://studio.code.org/join/GJHZSG
+
+Once you are in please do the CS Principles Pre-Survey.
 
 ---
 
@@ -50,6 +64,8 @@ Note:
   - Learning about computer science **and**
   - Learning about the world of work & the skills employers value
 ---
+
+
 
 ### The AP Exam
 
