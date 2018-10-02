@@ -5,6 +5,8 @@
 * At around 8:30 - Unit 1 Chapter 1 Assessment
   - 10 questions, multiple choice
   
+---
+  
 ## Next Class
 
 * Review Assessment
