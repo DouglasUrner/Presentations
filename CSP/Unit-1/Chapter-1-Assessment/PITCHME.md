@@ -1,3 +1,11 @@
+## Warm Up
+
+What does this pattern of bits represent: *0010 0101*?
+
+Note: The binary number 00100101 has a decimal value of 35, this could be "just a number" or it could be the glyph '#' or a color or a ... We have to agree on how values are being interpretted.
+
+---
+
 ## Agenda
 
 * Unit 1 Chapter 1 Review Questions
